@@ -1,1 +1,2 @@
-# cs578_final_project
+# CS 578 Statistical Machine Learning Project
+
